@@ -8,6 +8,15 @@ In the first phase of this project, we chose to use an urban intelligence platfo
 
 In the second phase of this project, we will be developing software for detecting people from video feeds. This could be used to count how many people use walking paths, sports fields, or tracks. 
 
+## Progress from phase I
+
+
+
+## Beginnings of next phase
+We have followed a [few](https://realpython.com/blog/python/face-detection-in-python-using-a-webcam/) [blogs](http://www.codeproject.com/Articles/10248/Motion-Detection-Algorithms) to utilize the some motion detection algorithm. Below is an image showing the detection of a walker using using differences between frames and thresholding. We hope to implement more advances algorithms soon...
+
+![walker](https://github.com/davidruffner/cv-people-detector/blob/master/resources/frame71.png)
+
 ## Under construction...
 
 We are hoping that this will be a collaborative project
