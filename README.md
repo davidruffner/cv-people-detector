@@ -17,7 +17,7 @@ from this Google fusion tables [spreadsheet](https://www.google.com/fusiontables
 
 
 ## Beginnings of next phase
-We have followed a [few](https://realpython.com/blog/python/face-detection-in-python-using-a-webcam/) [blogs](http://www.codeproject.com/Articles/10248/Motion-Detection-Algorithms) to utilize the some motion detection algorithm. Below is an image showing the detection of a walker using using differences between frames and thresholding. We hope to implement more advances algorithms soon...
+We have followed a [few](https://realpython.com/blog/python/face-detection-in-python-using-a-webcam/) [blogs](http://www.codeproject.com/Articles/10248/Motion-Detection-Algorithms) to utilize some motion detection algorithms. Below is an image showing the detection of a walker using differences between frames and thresholding. We hope to implement more advanced algorithms soon...
 
 ![walker](https://github.com/davidruffner/cv-people-detector/blob/master/resources/frame71.png?raw=true)
 
@@ -28,4 +28,4 @@ so we will try to structure it in a way that makes
 it easy to contribute. Some ideas for making this happen:
   * Follow Hitchhiker's Guide to Python [on how to structure the project](http://docs.python-guide.org/en/latest/writing/structure/#structure-of-the-repository)
   * Document code and create tutorials
-  * Use sphinx to generate [documentation pages](https://readthedocs.org/projects/cv-people-detector/) and put them up on [Read-the-Docs](https://docs.readthedocs.io/en/latest/getting_started.html)
+  * We used sphinx to generate [documentation pages](https://readthedocs.org/projects/cv-people-detector/) on Read-the-Docs.
