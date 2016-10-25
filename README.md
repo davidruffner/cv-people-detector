@@ -15,4 +15,4 @@ so we will try to structure it in a way that makes
 it easy to contribute. Some ideas for making this happen:
   * Follow Hitchhiker's Guide to Python [on how to structure the project](http://docs.python-guide.org/en/latest/writing/structure/#structure-of-the-repository)
   * Document code and create tutorials
-  * Use sphinx to generate documentation pages and [put them up on Read-the-Docs](https://docs.readthedocs.io/en/latest/getting_started.html)
+  * Use sphinx to generate [documentation pages](https://readthedocs.org/projects/cv-people-detector/) and put them up on [Read-the-Docs](https://docs.readthedocs.io/en/latest/getting_started.html)
