@@ -15,7 +15,6 @@ The interative version of this plot can be found [here](https://fusiontables.goo
 from this Google fusion tables [spreadsheet](https://www.google.com/fusiontables/DataSource?docid=1PwQxHhKM9-Hcp6hvVbiiqsbNKN6-nreYcVtAMkvz).
 
 
-
 ## Beginnings of next phase
 We have followed a [few](https://realpython.com/blog/python/face-detection-in-python-using-a-webcam/) [blogs](http://www.codeproject.com/Articles/10248/Motion-Detection-Algorithms) to utilize some motion detection algorithms. Below is an image showing the detection of a walker using differences between frames and thresholding. We hope to implement more advanced algorithms soon...
 
